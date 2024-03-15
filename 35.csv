@@ -1,0 +1,90 @@
+text
+0	mineria de datos
+	Gestion de Datos y de la Informacion I Modelo conceptual de datos 
+	 Modelo entidad-relacion 
+	 Modelo de datos orientado a objetos 
+	 Gramatica de modelado especifico 
+	II Modelo logico de datos 
+	 Modelo de datos jerarquicos 
+	 Modelo de datos de red 
+	 Modelo de datos relacional 
+	a) Relaciones y estructuras relacionales 
+0	b) Diseño de bases de datos relacionales 
+	a) Del esquema conceptual al esquema relacional 
+	b) Normalizacion 
+	III Modelo fisico de datos 
+	 Indexado 
+	 Tipos de datos 
+	IV Lenguajes de bases de datos 
+	 SQL LDD LMD y LCD
+	V Administracion de datos y de bases de datos
+	VI Procesamiento de transacciones
+0	VII Uso de un sistema de gestion de bases de datos desde el entorno de desarrollo de una aplicacion
+	VIII Uso de un sistema de gestion de bases de datos en un contexto empresarial
+	IX Arquitectura de los datos/informacion
+	IS 00 Infraestructura de las Tecnologias Ecologicas
+	La Cultura de la Informacion
+	 Organizacion del almacenamiento en las redes organizacionales 
+	 Centros de datos
+	IM/Conceptos de Gestion de la Informacion 
+	I Sistemas de Informacion como Sistemas Socio Tecnicos 
+	II Conceptos Almacenamiento y Recuperacion de Informacion Basica (IS&R) 
+0	III Representacion y Captura de Informacion 
+	IV Apoyo a las necesidades humanas busqueda recuperacion enlace navegacion 
+	V Aplicaciones de Administracion de la Informacion 
+	VI Consultas navegacionales y declarativas uso de enlaces 
+	VII Analisis e Indexacion 
+	VIII Temas de calidad con fiabilidad escalabilidad eficiencia y efectividad
+	IM/Bases de Datos Distribuidas 
+	I DBMS Distribuidas 
+	 Almacenamiento de datos distribuido 
+	 Procesamiento de consultas distribuido 
+0	 Modelo de transacciones distribuidas 
+	 Soluciones homogeneas y heterogeneas
+	 Bases de datos distribuidas cliente-servidor 
+	II Parallel DBMS 
+	 Arquitecturas paralelas DBMS memoria compartida disco compartido nada compartido 
+	 Aceleracion y ampliacion por ejemplo el uso del modelo de procesamiento MapReduce 
+	 Replicacion de informacion y modelos de consistencia debil
+	IM/Mineria de Datos 
+	I Uso de mineria de datos 
+	II Algoritmos de mineria de datos 
+0	III Patron asociativo y secuencial 
+	IV Agrupacion de datos 
+	V Analisis de la cesta de mercado 
+	VI Limpieza de datos 
+	VII Visualizacion de datos
+	IM/Sistemas Multimedia 
+	I Dispositivos de entrada/salida controladores de dispositivo señales de control y protocolos DSPs 
+	II Estandares (Ej audio grafico video) 
+	III Aplicaciones editores de media sistemas de autoria y autoria 
+	IV Flujos/estructuras captura/ representacion/ transformarcion espacios/ dominios compresion/ codificacion 
+0	V Analisis basado en contenido indexacion y recuperacion de audio imagenes animacion y video 
+	VI Presentacion renderizacion sincronizacion integracion multimodal  interfaces 
+	VII Entrega en tiempo real calidad de servicio (incluye rendimiento) capacidad de planeamiento conferencia audio/video video en demanda
+	CN/Datos informacion y conocimiento
+	Gestion de Contenido modelos marcos de trabajo sistemas metodos de diseño
+	Representaciones digitales de contenido incluyendo numeros texto imagenes video audio y animaciones
+	Creacion/captura y preservacion de contenido digital incluyendo digitalizacion muestreo compresion conversion transformacion/traduccion migracion/emulacion rastreo recoleccion
+	Estructura de contenido/administracion incluyendo librerias digitales y aspectos por estatica/dinamica/flujo
+	Procesamiento y reconocimiento de patrones incluyendo indexacion busquedas recuperacion clusterisacion clasificacion/categorizacion analisis/mineria/extraccion renderizado/reportes operaciones de manipulacion
+	Apoyo / sociedad de usuario para la presentacion y la interaccion incluyendo exploracion buscar filtrar ruta visualizar compartir colaborar tasa anotar personalice recomendar
+0	Modelado diseño implementacion logica y fisica el uso de sistemas pertinentes / software
+	AR/Organizacion y Arquitectura del Sistema de Memoria 
+	I Sistemas de Almacenamiento y su Tecnologia
+	AR/Interfaz y comunicacion 
+	I Almacenamiento externo organizacion fisica y discos 
+	II Arquitecturas RAID
+	PD/Cloud Computing 
+	I Almacenamiento de datos en la nube 
+	 Acceso compartido a data stores de consistencia debil 
+	 Sincronizacion de datos 
+0	 Particionamiento de datos 
+	 Sistemas de Archivos Distribuidos 
+	 Replicacion
+	SP/Privacidad y Libertades Civiles 
+	I Implicaciones de privacidad de recopilacion de datos generalizada de bases de datos transaccionales almacenes de datos sistemas de vigilancia y la computacion en la nube  
+	Recuperacion y busqueda de informacion
+
+
+id	text

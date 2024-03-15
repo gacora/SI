@@ -1,0 +1,10 @@
+text
+	Diferencias entre el mejor el esperado y el peor caso de un algoritmo Analisis asintotico de complejidad de cotas superior y esperada Definicion formal de la notacion gran O Clases de complejidad como constante logaritmica lineal cuadratica y exponencial Medidas empiricas de desempeño Compensacion entre espacio y tiempo en los algoritmos Uso de la notacion gran O Notacion pequeña o gran omega y gran theta Relaciones recurrentes Analisis de algoritmos iterativos y recursivos Algunas versiones del Teorema Maestro Algoritmos de fuerza bruta Algoritmos voraces Divide y venceras Vuelta atras recursiva
+	Programacion Dinamica Ramificacion y poda Heuristicas Reduccion
+	Transformar y Conquistar Algoritmos numericos simples tales como el calculo de la media de una lista de numeros encontrar el minimo y maximo Algoritmos de busqueda secuencial y binaria Algoritmos de ordenamiento de peor caso cuadratico Algoritmos de ordenamiento con peor caso o caso promedio en O(Nlog N) tablas Hash incluyendo estrategias para evitar y resolver colisiones Árboles de busqueda binaria Grafos y algoritmos en grafos Grafos y algoritmos en grafos Busqueda de patrones y algoritmos de cadenas y textos Gramaticas libres de contexto Introduccion a las clases P y NP y al problema P vs NP Introduccion y ejemplos de problemas NPCompletos y a clases NP-Completos Árboles balanceados Estructuras de Datos Avanzadas
+	Estructuras de Datos y Algoritmos basados en cadenas Redes de Flujo
+	Programacion Lineal Algoritmos Teorico-Numericos Algoritmos Geometricos
+	Algoritmos aleatorios Algoritmos estocasticos Algoritmos de aproximacion
+	Analisis amortizado Analisis Probabilistico Algoritmos en linea y analisis competitivo
+
+analsis y diseño de algoritmos
